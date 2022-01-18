@@ -1,0 +1,594 @@
+/* từ pc xuống  */
+@media (min-width: 1023px) and (max-width: 1365px) {
+  .title {
+    margin-left: -150px;
+    width: 1173px;
+  }
+  .title1 {
+    margin-right: 80px;
+  }
+  .maint {
+    flex-direction: column;
+  }
+  .maint1 {
+    margin: 40px 120px;
+  }
+  .iphone {
+    margin-left: 70px;
+  }
+  /* phancode */
+  .iphone2 {
+    flex-direction: column;
+    margin-top: 300px;
+  }
+  .imges {
+    margin-left: 0;
+  }
+  .skills {
+    margin-left: 200px;
+    margin-top: 50px;
+  }
+  /* phần features */
+
+  .code {
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  /* phanOurstanding */
+  .emes img {
+    margin-left: 30px;
+  }
+  .emes2 {
+    margin-left: 285px;
+  }
+  /* phanapp Screenshot */
+  .box1 {
+    margin-top: -90px;
+    height: 630px;
+  }
+  .dev1 {
+    margin-top: 40px;
+  }
+  .box2 {
+    margin-top: -90px;
+    height: 630px;
+  }
+  .dev2 {
+    margin-top: 40px;
+  }
+  /* phanquestion */
+  nav {
+    margin-left: 100px;
+  }
+  /* phanBVOTE */
+  .section-technology .module-technology .module-content {
+    margin-left: -70px;
+  }
+  /* phânppscreenshot */
+  .dpeo {
+    margin-left: 55px;
+  }
+  /* phanchoose */
+  .choose-grid {
+    margin: 60px;
+  }
+  /* phanourtestimonial */
+
+  .our-gird-item {
+    margin: 50px 75px;
+    min-width: 200px;
+    height: 450px;
+  }
+  .user-img {
+    margin-top: -10px;
+  }
+  /* phanourtem */
+  .secondary {
+    margin-left: 90px;
+  }
+  .team2 {
+    display: none;
+  }
+  .team14 {
+    display: none;
+  }
+  /* phancontact */
+  .form {
+    margin-left: 30px;
+  }
+  .contact-other {
+    margin-left: -200px;
+  }
+  .ans {
+    margin-left: 370px;
+  }
+}
+/* ipap */
+@media (min-width: 740px) and (max-width: 1023px) {
+  .title {
+    flex-direction: column;
+  }
+  .menu {
+    flex-direction: column;
+  }
+  .icon {
+    margin-left: 50px;
+  }
+  .icon img {
+    margin-top: 10px;
+    margin-bottom: 40px;
+    width: 50px;
+    height: 50px;
+  }
+  #toggle {
+    text-align: center;
+    margin-left: 400px;
+    margin-bottom: 20px;
+    margin-top: -105px;
+    display: block;
+    font-size: 28px;
+  }
+  .menu {
+    margin-top: -10px;
+  }
+  .menu li {
+    font-size: 25px;
+    margin-left: 40px;
+    padding: 10px;
+  }
+  .menu span {
+    font-size: 25px;
+  }
+  /* phanduoimenu */
+  .maint {
+    flex-direction: column;
+    margin-top: -60px;
+  }
+  .maint1 {
+    margin: 40px 120px;
+  }
+  .iphone {
+    margin-left: 60px;
+    margin-top: 10px;
+  }
+  .iphone2 {
+    flex-direction: column;
+    margin-top: 50px;
+  }
+  .imges {
+    margin-left: 0;
+  }
+  .skills {
+    margin-left: 200px;
+    margin-top: 50px;
+  }
+  /* phần features */
+
+  .code {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: -40px;
+  }
+  .code1 {
+    height: 330px;
+  }
+  .video {
+    padding-top: 20px;
+  }
+  /* phanOurstanding */
+  .bender {
+    flex-direction: column;
+  }
+  .emes img {
+    margin-left: 135px;
+  }
+  .emes2 {
+    margin-left: 200px;
+  }
+  .container1 {
+    margin-left: 260px;
+  }
+  /* phanapp Screenshot */
+  .box1 {
+    /* margin-top: -90px;
+    height: 630px; */
+    display: none;
+  }
+  .box2 {
+    /* margin-top: -90px;
+    height: 630px; */
+    display: none;
+  }
+
+  /* phanquestion */
+  nav {
+    margin-left: 135px;
+  }
+  .images1 {
+    display: none;
+  }
+  /* phanBVOTE */
+  .section-technology .module-technology .module-content {
+    margin-left: -200px;
+  }
+  .layer__title {
+    display: none;
+  }
+  /* phanstatics */
+  .here {
+    margin-left: 40px;
+  }
+  .amet {
+    width: 30%;
+  }
+  /* phânppscreenshot */
+  .dpeo {
+    margin-left: -70px;
+  }
+  /* phanchoose */
+  .choose-grid {
+    margin: 20px;
+  }
+  /* phanourtestimonial */
+
+  .our-gird-item {
+    margin: 50px 15px;
+    min-width: 150px;
+    height: 450px;
+  }
+  .user-img {
+    margin-top: -10px;
+  }
+  /* phanourtem */
+  .secondary {
+    margin-left: 100px;
+  }
+  .team2 {
+    display: none;
+  }
+  .team13 {
+    display: none;
+  }
+  .team14 {
+    display: none;
+  }
+  /* phancontact */
+  .form {
+    margin-left: 140px;
+  }
+  .contact-other {
+    /* margin-left: -200px; */
+    display: none;
+  }
+  .ans {
+    margin-left: 240px;
+  }
+}
+
+/* iphone678 */
+@media (min-width: 359px) and (max-width: 667px) {
+  .title {
+    flex-direction: column;
+    /* width: 0; */
+  }
+  .menu {
+    flex-direction: column;
+  }
+  .icon {
+    margin-left: 20px;
+    margin-top: -10px;
+  }
+  .icon img {
+    margin-top: 10px;
+    margin-bottom: 40px;
+    width: 50px;
+    height: 50px;
+  }
+  #toggle {
+    /* text-align: center; */
+    margin-left: 330px;
+    /* margin-right: 00px; */
+    margin-bottom: 20px;
+    margin-top: -100px;
+    display: block;
+    font-size: 28px;
+    color: #fff;
+  }
+  .menu {
+    margin-top: -10px;
+  }
+  .menu li {
+    font-size: 15px;
+    margin-left: 20px;
+    padding: 5px;
+  }
+  .menu span {
+    font-size: 15px;
+  }
+  /* phanduoimenu */
+  .maint {
+    flex-direction: column;
+    margin-top: 10px;
+  }
+  .maint1 {
+    margin: 40px;
+  }
+  .maint1 span {
+    font-size: 35px;
+  }
+  .maint1 p {
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }
+  .play {
+    font-size: 12px;
+
+    padding: 10px 20px;
+  }
+  .ios {
+    font-size: 12px;
+    padding: 10px 20px;
+  }
+  .iphone {
+    display: none;
+  }
+  .iphone2 {
+    flex-direction: column;
+    margin-top: 150px;
+  }
+  .imges {
+    margin-left: 0;
+    margin-top: 90px;
+  }
+  .imges img {
+    width: 300px;
+    height: 372px;
+  }
+  .skills {
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  .skills-bar {
+    margin-right: 5px;
+  }
+  /* * phần features */
+  .code {
+    margin-left: 20px;
+    flex-direction: column;
+    grid-gap: 0px;
+  }
+  .code1 {
+    height: 330px;
+    width: 300px;
+    margin-left: 15px;
+  }
+  .video {
+    padding-top: 20px;
+    height: 655px;
+  }
+  .video h1 {
+    font-size: 30px;
+  }
+  .video img {
+    margin-top: 50px;
+    width: 370px;
+
+    object-fit: cover;
+  }
+  /* phanOurstanding */
+  .app h1 {
+    font-size: 30px;
+  }
+  .bender {
+    flex-direction: column;
+  }
+  .emes img {
+    margin-left: 40px;
+    width: 300px;
+    height: 370px;
+  }
+  .emes2 {
+    display: none;
+  }
+  .emes1 {
+    display: none;
+  }
+  .emes3 {
+    display: none;
+  }
+  .container1 {
+    margin-left: 60px;
+    width: 70%;
+  }
+
+  /* phanapp Screenshot */
+  .box1 {
+    /* margin-top: -90px;
+    height: 630px; */
+    display: none;
+  }
+  .box2 {
+    /* margin-top: -90px;
+    height: 630px; */
+    display: none;
+  }
+  .collapsible {
+    width: 370px;
+  }
+  .muctieu h1 {
+    font-size: 30px;
+  }
+  .content {
+    width: 370px;
+  }
+  /* phanquestion */
+  nav {
+    margin-left: 3px;
+  }
+  .images1 {
+    display: none;
+  }
+  /* phanBVOTE */
+  .section-technology {
+    display: none;
+  }
+  /* phanstatics */
+  .statics1 {
+    margin-top: 70px;
+  }
+  .statics1 h1 {
+    font-size: 35px;
+  }
+  .here {
+    margin-left: 10px;
+    margin-top: 30px;
+  }
+  .amet {
+    width: 43%;
+  }
+  /* phânppscreenshot */
+  .dpeo {
+    margin-left: 25px;
+  }
+  .file h1 {
+    font-size: 35px;
+  }
+  .imgs2 {
+    margin: 0px 40px;
+    margin-top: 64px;
+    width: 255px;
+    display: none;
+  }
+  /* phanchoose */
+  .choose-grid {
+    margin: 20px;
+    grid-template-columns: 1fr;
+  }
+  /* phanourtestimonial */
+
+  .our-gird-item {
+    margin: 50px 15px;
+    min-width: 150px;
+    height: 450px;
+  }
+  .user-img {
+    margin-top: -10px;
+  }
+  /* phanourtem */
+  .secondary {
+    margin-left: 20px;
+    flex-direction: column;
+  }
+  .team11 {
+    background-color: #fff;
+  }
+  .team12 {
+    background-color: #fff;
+  }
+  .team13 {
+    background-color: #fff;
+  }
+  .team14 {
+    background-color: #fff;
+  }
+  .socials {
+    margin-left: 270px;
+  }
+  /* phansubscribe */
+  .develop span {
+    font-size: 35px;
+  }
+  .develop p {
+    padding: 0px 10px;
+  }
+  .subscribe-button {
+    margin-left: 10px;
+    margin-top: 20px;
+  }
+  /* lates */
+  .late p {
+    margin: 0px 20px;
+  }
+  .blog {
+    margin-left: 70px;
+  }
+  /* phancontact */
+  .form {
+    margin-left: 2px;
+  }
+  .contact-other {
+    /* margin-left: -200px; */
+    display: none;
+  }
+  .ans {
+    margin-left: 70px;
+  }
+}
+/* mobile 5s */
+
+@media (max-width: 320px) {
+  .title {
+    flex-direction: column;
+  }
+  .menu {
+    flex-direction: column;
+  }
+  .icon {
+    margin-left: 20px;
+    margin-top: -10px;
+  }
+  .icon img {
+    margin-top: 10px;
+    margin-bottom: 40px;
+    width: 50px;
+    height: 50px;
+  }
+  #toggle {
+    /* text-align: center; */
+    margin-left: 280px;
+    /* margin-right: 00px; */
+    margin-bottom: 20px;
+    margin-top: -100px;
+    display: block;
+    font-size: 28px;
+  }
+  .menu {
+    margin-top: -10px;
+  }
+  .menu li {
+    font-size: 15px;
+    margin-left: 20px;
+    padding: 5px;
+  }
+  .menu span {
+    font-size: 15px;
+  }
+  /* phanduoimenu */
+  .maint {
+    flex-direction: column;
+    margin-top: -30px;
+  }
+  .maint1 {
+    margin: 40px;
+  }
+  .maint1 span {
+    font-size: 30px;
+  }
+  .maint1 p {
+    margin-top: 0px;
+    margin-bottom: 20px;
+  }
+  .play {
+    font-size: 12px;
+    margin-right: 0;
+    margin-left: -5px;
+    padding: 8px 10px;
+  }
+  .ios {
+    font-size: 12px;
+    padding: 8px 10px;
+  }
+  .iphone {
+    display: none;
+  }
+}
